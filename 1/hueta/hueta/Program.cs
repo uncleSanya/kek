@@ -10,6 +10,8 @@ namespace hueta
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Qulity");
+            Console.ReadKey();
         }
     }
 }
